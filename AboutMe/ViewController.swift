@@ -13,11 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
   
-        //        TODO: Don't show "Label
+        
         nameLabel.text = "" // = nil
         hobbiesLabel.text = ""
-//        nameLabel.isHidden = true
-//        nameLabel.alpha = 0
+
 
         
     }
@@ -26,7 +25,7 @@ class ViewController: UIViewController {
         
         nameLabel.text = "Steven Leyva"
         hobbiesLabel.text = "Video Games, Hiking, Board Games, Coding"
-        //nameLabel.alpha = 1 // 0 = hidden, 1 = visible
+      ≈ç
     }
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var hobbiesLabel: UILabel!

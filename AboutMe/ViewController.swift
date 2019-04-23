@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         
         nameLabel.text = "Steven Leyva"
         hobbiesLabel.text = "Video Games, Hiking, Board Games, Coding"
-      ≈ç
+      
     }
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var hobbiesLabel: UILabel!
